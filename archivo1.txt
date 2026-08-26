@@ -1,1 +1,1 @@
-Archivo 1 modificado de manera remota
+Archivo 1 modificado desde local
